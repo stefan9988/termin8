@@ -1,1 +1,1 @@
-Ovo je hello world aplikacija.
+Ovo je hello world aplikacija napisana u java jeziku
